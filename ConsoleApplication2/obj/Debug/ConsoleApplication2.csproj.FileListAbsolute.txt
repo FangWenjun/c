@@ -1,0 +1,7 @@
+D:\c#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\c#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\c#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\c#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\c#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\c#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.CodeAnalysisLog.xml
+D:\c#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.lastcodeanalysissucceeded
